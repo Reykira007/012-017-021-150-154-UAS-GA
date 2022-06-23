@@ -10,5 +10,5 @@ Project ini di buat untuk memenuhi nilai UAS GIS TI6MA
 
 ## Running Aplikasi
 
-Uploading Demo Aplikasi.mp4…
+https://user-images.githubusercontent.com/70166715/175221552-2a0c612d-0c24-4b92-9d38-cb0b3ff6fb97.mp4
 
