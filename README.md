@@ -1,3 +1,10 @@
+## cara pemakaian
+- download folder github
+- import web-app.sql ke phpmysql
+- letakan folder damkar di htdocs
+- buka folder 012 017 021 150 UAS GA di Android Studio
+- jalankan xampp
+
 ## Soal Project
 [Kasus Soal.docx](https://github.com/Reykira007/012-017-021-150-154-UAS-GA/files/9061224/UAS-GA-TI6MA-TI6MJ.docx)
 
